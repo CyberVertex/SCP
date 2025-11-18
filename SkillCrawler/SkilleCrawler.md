@@ -1,4 +1,4 @@
-# Security Copilot Skill Dumper (PowerShell)
+# Security Copilot Skill Crawler (PowerShell)
 
 A PowerShell script for exporting **Security Copilot plugins and skills**
 
